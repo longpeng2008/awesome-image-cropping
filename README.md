@@ -7,6 +7,7 @@
  * Attention Based Auto Image Cropping [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.437.8815&rep=rep1&type=pdf)＜/br＞
  * Saliency Based Image Cropping [[PDF]](https://pdfs.semanticscholar.org/3cd9/348a133eea013e12438361d50f9ea8ccb5fa.pdf)＜/br＞
  * LSTM-based Saliency Attentive Model [[PDF]](https://arxiv.org/pdf/1611.09571.pdf) [[code]](https://github.com/marcellacornia/sam)
+ * MSRA10K [[web]](https://mmcheng.net/msra10k/) [[code]](https://github.com/Andrew-Qibin/DSS)
 
 #### Aesthetics-based methods 
  * Deep Cropping via Attention Box Prediction and Aesthetics Assessment [[PDF]](https://arxiv.org/pdf/1710.08014.pdf)＜/br＞
